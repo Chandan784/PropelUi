@@ -9,6 +9,7 @@ import Navbar from "./components/Navbar";
 import WhatForYou from "./components/WhatForYou";
 import Methodology from "./components/Methodology";
 import FAQuestions from "./components/FAQuestions";
+import FooterIntro from "./components/FooterIntro";
 
 function App() {
   const [count, setCount] = useState(0);
@@ -24,6 +25,7 @@ function App() {
           <Methodology />
           <WhatForYou />
           <FAQuestions />
+          <FooterIntro />
           <Footer />
         </div>
       </div>
