@@ -4,7 +4,7 @@ const FooterIntro = () => {
       <div className=" w-full flex justify-center mt-16">
         <div className=" border-2 border-blue-950 w-fit p-10 pl-20 pr-20  text-center rounded-lg">
           <h2 className=" text-4xl  w-full tex font-medium text-center m-4 mb-8 mt-8">
-            Ready <span className=" text-pink-500">Begin ?</span>
+            Ready to <span className=" text-pink-500">Begin ?</span>
           </h2>
 
           <p className=" text-lg   w-full text-center text-xl mt-8 ">
