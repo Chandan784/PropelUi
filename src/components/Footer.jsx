@@ -2,7 +2,7 @@ const Footer = () => {
   return (
     <>
       <div className=" mt-20">
-        <div className="flex justify-between  h-40 w-full bg-white items-cente bg-slate-500 text-white">
+        <div className="flex justify-between  h-40 w-full items-cente bg-slate-500 text-white  font-extrabold">
           <div className="w-80 h-full flex items-start flex-col  justify-center ml-8">
             <img
               src="https://propelmentorship.com/wp-content/uploads/2024/02/Screenshot_2024-02-28_170822-removebg-preview-120x54.png"
